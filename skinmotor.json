@@ -1,0 +1,12 @@
+[
+  {
+    "NAMA": "Backup",
+    "intro": "https://raw.githubusercontent.com/KimaqMoba2023/Allfile/main/file_backup.jpg",
+    "execute Inject": "https://github.com/KimaqMoba2023/Allfile/raw/main/backup%20intro.zip"
+  },
+  {
+    "NAMA": "Intro 1",
+    "intro": "https://raw.githubusercontent.com/KimaqMoba2023/Allfile/main/intro_1.jpg",
+        "execute Inject": "https://github.com/KimaqMoba2023/Allfile/raw/main/intro%201.zip"
+  }
+]
